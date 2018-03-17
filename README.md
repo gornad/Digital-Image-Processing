@@ -1,1 +1,1 @@
-# CMPEN-455
+# CMPEN-455 Digital Image Processing
