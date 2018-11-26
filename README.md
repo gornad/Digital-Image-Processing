@@ -1,5 +1,3 @@
-# CMPEN-455 Digital Image Processing
-
 ## Project 1: Digital Image Quantization
 
 ## Project 2: Connected Component Labelling and Set Operations
